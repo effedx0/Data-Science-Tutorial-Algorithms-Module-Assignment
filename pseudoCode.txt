@@ -1,0 +1,36 @@
+
+Question 1 Write the pseudo code of a program that takes two numbers from the user and adds them together.
+
+1. Ask the user for the first number and define it as number1 variable
+2. Ask the user for the second number and define it as number2 variable
+3. Define the sum variable.
+4. Sum = number1 + number2
+5. print the sum on the screen
+6. End the program
+
+End
+
+Question 2 Write the pseudo code of a program that adds numbers from 1 to 100.
+
+1.Define a counter and set it equal to 1
+2.Define the sum variable as 0 
+3.As long as the meter is less than or equal to 100
+4.Sum = Sum + Counter
+5.Increase the counter by 1.
+6.print the sum on the screen.
+
+Question 3
+
+1.Define a counter(i) and number
+2.set number to 0
+3.set counter(i) to 2
+4.ask the user to enter a positive number.
+5.If number <= 1 
+6.Print number is not a prime number
+7.Start loop from counter(i) to number/2
+8.If “number” is divisible by any number “i”, the number is not prime.
+
+
+
+
+
